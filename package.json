@@ -1,0 +1,33 @@
+{
+  "name": "scriptcraftbox",
+  "version": "1.0.2",
+  "description": "scriptcraftbox",
+  "type": "module",
+  "main": "scriptcraftbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marchesemartinsonn/scriptcraftbox"
+  },
+  "website": "https://github.com/marchesemartinsonn/scriptcraftbox.git",
+  "keywords": [
+    "scriptcraftbox"
+  ],
+  "author": "marchesemartinsonn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marchesemartinsonn/scriptcraftbox/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/marchesemartinsonn/scriptcraftbox#readme",
+  "dependencies": {
+    "codewhiz": "1.0.2",
+    "programgenius": "1.0.2",
+    "codecraftsmaster": "1.0.2"
+  }
+}
